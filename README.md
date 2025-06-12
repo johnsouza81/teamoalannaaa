@@ -71,22 +71,22 @@
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                 <!-- Placeholder for photos -->
                 <div class="bg-gray-100 aspect-square rounded-lg flex items-center justify-center border border-pink-300 overflow-hidden">
-                    <img src="https://placehold.co/300x300/FDCEDF/7A2534?text=Sua+Foto+1" alt="Placeholder Foto 1" class="w-full h-full object-cover">
+                    <img src="https://web.whatsapp.com/c513729b-b3a4-4d61-b9e3-550925841eb6" class="w-full h-full object-cover">
                 </div>
                 <div class="bg-gray-100 aspect-square rounded-lg flex items-center justify-center border border-pink-300 overflow-hidden">
-                    <img src="https://placehold.co/300x300/FDCEDF/7A2534?text=Sua+Foto+2" alt="Placeholder Foto 2" class="w-full h-full object-cover">
+                    <img src="https://web.whatsapp.com/18ed277d-6758-41e4-86b8-8687e5a64aa7" class="w-full h-full object-cover">
                 </div>
                 <div class="bg-gray-100 aspect-square rounded-lg flex items-center justify-center border border-pink-300 overflow-hidden">
-                    <img src="https://placehold.co/300x300/FDCEDF/7A2534?text=Sua+Foto+3" alt="Placeholder Foto 3" class="w-full h-full object-cover">
+                    <img src="https://web.whatsapp.com/3e3a090d-c159-4f0e-a328-f8df383bed9e" class="w-full h-full object-cover">
                 </div>
                 <div class="bg-gray-100 aspect-square rounded-lg flex items-center justify-center border border-pink-300 overflow-hidden">
-                    <img src="https://placehold.co/300x300/FDCEDF/7A2534?text=Sua+Foto+4" alt="Placeholder Foto 4" class="w-full h-full object-cover">
+                    <img src="https://web.whatsapp.com/33febe7f-eddc-4c6f-abb8-c48d8cf98366" class="w-full h-full object-cover">
                 </div>
                 <div class="bg-gray-100 aspect-square rounded-lg flex items-center justify-center border border-pink-300 overflow-hidden">
-                    <img src="https://placehold.co/300x300/FDCEDF/7A2534?text=Sua+Foto+5" alt="Placeholder Foto 5" class="w-full h-full object-cover">
+                    <img src="https://web.whatsapp.com/0d449d06-fe9d-4c81-9144-6610dd5a4c70" alt="Placeholder Foto 5" class="w-full h-full object-cover">
                 </div>
                 <div class="bg-gray-100 aspect-square rounded-lg flex items-center justify-center border border-pink-300 overflow-hidden">
-                    <img src="https://placehold.co/300x300/FDCEDF/7A2534?text=Sua+Foto+6" alt="Placeholder Foto 6" class="w-full h-full object-cover">
+                    <img src="https://web.whatsapp.com/cd7eb284-2f8b-447a-80c9-c03348f6ae75" alt="Placeholder Foto 6" class="w-full h-full object-cover">
                 </div>
             </div>
             <p class="text-center mt-6 text-sm text-gray-500 italic">
